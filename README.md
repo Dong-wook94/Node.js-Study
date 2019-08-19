@@ -1,5 +1,5 @@
 # Node.js
-> [인프런](https://www.inflearn.com/courses/it-programming?skill=nodejs&order=seq)의 [Node.js 서버 프로그래밍 과정 강의](https://www.inflearn.com/course/node-js/lecture/14529)를 듣고 
+> [인프런](https://www.inflearn.com/courses/it-programming?skill=nodejs&order=seq)의 [Node.js 서버 프로그래밍 과정 강의](https://www.inflearn.com/course/node-js/lecture/14529)를 듣고 공부한 내용을 정리하였습니다.
 
 ## Node.js란
 - node.js는 구글 크롬 브라우저에서 JavaScript 코드를 처리하기 위한 
